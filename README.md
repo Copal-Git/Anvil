@@ -30,27 +30,27 @@ Kayna proposes a digital solution to aid employees with an interface to efficien
 ## Features
 
 ### Feature 1 : User Management
-The product owner (admin) shall install a copy of the software on a personal machine which will serve as the source of truth, ie: storing the database and opening up as a server to which the employees connect to in the business' local network.
+ The product owner (admin) shall install a copy of the software on a personal machine which will serve as the source of truth, ie: storing the database and opening up as a server to which the employees connect to in the business' local network.
+ 
+ The admin can assign employees as: <br>
+ 1. managers : have access to product inventory and data
+ 2. cashiers : have access to the mobile version to scan products and obtain information for pricing.
 
-The admin can assign employees as: <br>
-1. managers : have access to product inventory and data
-2. cashiers : have access to the mobile version to scan products and obtain information for pricing.
-
-Assigning user accounts ensures a role based system with separated privileges.
+ Assigning user accounts ensures a role based system with separated privileges.
 
 ### Feature 2 : Product Management
-
-The admin shall be able to add a product, which resembles a unique profile for a certain good.
-
-The admin/manager shall be able to add stock of said product, a stock is a physical instance of a product.
+ 
+ The admin shall be able to add a product, which resembles a unique profile for a certain good.
+ 
+ The admin/manager shall be able to add stock of said product, a stock is a physical instance of a product.
 
 ### Feature 3 : Sales Records
 
-Each time a purchase is performed, the items bought are stored in an individual record, the records in mass are called sales, which the manager/admin can view to understand association rules.
+ Each time a purchase is performed, the items bought are stored in an individual record, the records in mass are called sales, which the manager/admin can view to understand association rules.
 
 ### Feature 4 : Data Analytics
 
-Analytics allow the admin/manager to observe the quantities and percentages of a volume in the store, in addition to observing customer traffic through out the week.
+ Analytics allow the admin/manager to observe the quantities and percentages of a volume in the store, in addition to observing customer traffic through out the week.
 
 ### Feature 5 : RAG + Automation Agent ( ? )
 
